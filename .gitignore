@@ -13,6 +13,10 @@
 *.flac
 *.m4a
 
+# Separate organized folders
+1_ONE_CLICK_DUBBING/
+2_EPISODES_HINDI_DUBBED/
+
 # Episode-specific manual build & slicing scripts
 build_*.py
 concat_*.py
