@@ -1,0 +1,225 @@
+{
+  "_comment": "voices.json - Master Speaker registry. Never change a speaker's voice mid-series. Editable by user.",
+  "speakers": {
+    "S1": {
+      "character_name": "Cisco Ramon",
+      "gender": "male",
+      "tts_speaker": "Karan",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "+15%",
+        "pitch": "+5Hz"
+      },
+      "locked": true
+    },
+    "S2": {
+      "character_name": "Joe West",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-5%",
+        "pitch": "-22Hz"
+      },
+      "locked": true
+    },
+    "S3": {
+      "character_name": "Iris West",
+      "gender": "female",
+      "tts_speaker": "Divya",
+      "voice_config": {
+        "voice": "hi-IN-SwaraNeural",
+        "rate": "+2%",
+        "pitch": "+8Hz"
+      },
+      "locked": true
+    },
+    "S4": {
+      "character_name": "Barry Allen",
+      "gender": "male",
+      "tts_speaker": "Tapan",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-6%",
+        "pitch": "-10Hz"
+      },
+      "locked": true
+    },
+    "S5": {
+      "character_name": "News Reporter / Citizen",
+      "gender": "female",
+      "tts_speaker": "Divya",
+      "voice_config": {
+        "voice": "hi-IN-SwaraNeural",
+        "rate": "+3%",
+        "pitch": "+5Hz"
+      },
+      "locked": true
+    },
+    "S6": {
+      "character_name": "Captain Singh",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "+0%",
+        "pitch": "-15Hz"
+      },
+      "locked": true
+    },
+    "S7": {
+      "character_name": "Caitlin Snow",
+      "gender": "female",
+      "tts_speaker": "Sita",
+      "voice_config": {
+        "voice": "hi-IN-SwaraNeural",
+        "rate": "-2%",
+        "pitch": "+2Hz"
+      },
+      "locked": true
+    },
+    "S8": {
+      "character_name": "Ronnie Raymond",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "+0%",
+        "pitch": "-5Hz"
+      },
+      "locked": true
+    },
+    "S9": {
+      "character_name": "Martin Stein",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-8%",
+        "pitch": "-18Hz"
+      },
+      "locked": true
+    },
+    "S10": {
+      "character_name": "Harrison Wells",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-10%",
+        "pitch": "-25Hz"
+      },
+      "locked": true
+    },
+    "S11": {
+      "character_name": "Eddie Thawne",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "+0%",
+        "pitch": "-5Hz"
+      },
+      "locked": true
+    },
+    "S12": {
+      "character_name": "Captain Cold",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-10%",
+        "pitch": "-20Hz"
+      },
+      "locked": true
+    },
+    "S13": {
+      "character_name": "Al Rothstein / Atom Smasher",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-12%",
+        "pitch": "-30Hz"
+      },
+      "locked": true
+    },
+    "S14": {
+      "character_name": "Mayor",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-5%",
+        "pitch": "-12Hz"
+      },
+      "locked": true
+    },
+    "S15": {
+      "character_name": "Greg Turk (Attorney)",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-4%",
+        "pitch": "-14Hz"
+      },
+      "locked": true
+    },
+    "S16": {
+      "character_name": "Dr. Henry Allen",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-6%",
+        "pitch": "-16Hz"
+      },
+      "locked": true
+    },
+    "S17": {
+      "character_name": "Jay Garrick",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-4%",
+        "pitch": "-12Hz"
+      },
+      "locked": true
+    },
+    "S18": {
+      "character_name": "Patty Spivot",
+      "gender": "female",
+      "tts_speaker": "Divya",
+      "voice_config": {
+        "voice": "hi-IN-SwaraNeural",
+        "rate": "+3%",
+        "pitch": "+6Hz"
+      },
+      "locked": true
+    },
+    "S19": {
+      "character_name": "Eddie Slick / Sand Demon",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-10%",
+        "pitch": "-26Hz"
+      },
+      "locked": true
+    },
+    "S20": {
+      "character_name": "Zoom",
+      "gender": "male",
+      "tts_speaker": "Rohit",
+      "voice_config": {
+        "voice": "hi-IN-MadhurNeural",
+        "rate": "-15%",
+        "pitch": "-40Hz"
+      },
+      "locked": true
+    }
+  }
+}

@@ -1,0 +1,43 @@
+# Video and media files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+*.webm
+
+# Audio files
+*.wav
+*.mp3
+*.aac
+*.flac
+*.m4a
+
+# Episode-specific manual build & slicing scripts
+build_*.py
+concat_*.py
+check_parts.py
+process_part.py
+fast_process_part.py
+run_dubbing.py
+generate_s02e02_full_report.py
+FULL_EPISODE_REPORT.md
+*_FULL_REPORT.md
+HOW_TO_CONVERT_EPISODES.md
+Hindi_Dubbing_Pipeline.ipynb
+
+# Working cache & generated folders
+work/
+episodes/
+subs/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.log
+
+# OS & IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
